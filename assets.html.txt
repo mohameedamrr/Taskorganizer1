@@ -1,1 +1,2 @@
-we made a change #2 into the new branch
+we are in the second branchgit
+added new line
