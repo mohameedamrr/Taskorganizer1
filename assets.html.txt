@@ -1,1 +1,4 @@
-we solved merges
+
+we are in the second branchgit
+added new line
+
